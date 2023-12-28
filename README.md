@@ -12,10 +12,12 @@ This is a project that I made when learning the MERN stack. I followed the video
 - Open a terminal and cd into the backend folder
 - Run ` npm install `
 - Run the command ` npm start ` this will start the backend server
+- ` In the database :) ` should appear in the terminal if everything is correct
 ### Frontend:
-- Open a terminal and cd into the frontend folder
+- Open another terminal and cd into the frontend folder
 - Run ` npm install `
 - Run the command ` npm start ` this will start the development server for the react application
+- A new window should appear if everything is correct
 
 ## Notes:
 - The MongoDB is a local instance so it won't work unless you make it locally as well
