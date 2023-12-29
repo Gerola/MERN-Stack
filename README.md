@@ -1,5 +1,5 @@
 # MERN-Stack Learning
-This is a project that I made when learning the MERN stack. I followed the video series [Net Ninja- MERN Stack Crash Course Tutorial](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE) on YouTube when making this project.
+This is a project I made when learning the MERN stack. I followed the video series [Net Ninja- MERN Stack Crash Course Tutorial](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE) on YouTube when making this project.
 
 ## Technologies Used:
 ![Mongo](https://img.shields.io/badge/MongoDB-a9a9a9?style=for-the-badge&logo=MongoDB)
