@@ -40,7 +40,7 @@ code {
 
 .top_of_pages:hover{
   cursor: pointer;
-  color:darkred;
+  color:white;
 }
 
 .content_other
@@ -66,15 +66,18 @@ code {
   text-align: center;
   background-color: rgb(8, 255, 8);
   border-color: rgb(8, 255, 8);
-  transition-duration: 0.3s;
+  transition-duration: 0.2s;
   border-radius: 12px;
   border-radius: 50px;
   padding: 5px;
+  margin-bottom: 10px;
 }
 
 .add_item:hover
 {
-  background-color: white;
+  background-color: darkgreen;
+  border-color: darkgreen;
+  cursor: pointer;
 }
 
 .food
@@ -133,13 +136,12 @@ code {
 
 .form_outline
 {
-  padding-bottom: 20px;
+  padding-bottom: 15px;
 }
 
 input.error
 {
   border-color: red;
-  border-radius: 3px;  
 }
 
 .delete_button
@@ -178,4 +180,20 @@ input.error
 {
   text-align: center;
 
+}
+
+.error_pop
+{
+  color: black;
+  background-color: red;
+  text-align: center;
+  padding: 4.5px;
+  transition: 0.2s;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.hidden
+{
+  visibility: hidden;
 }
